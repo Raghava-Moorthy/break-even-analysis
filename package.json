@@ -1,0 +1,37 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "@react-pdf/font": "^2.4.4",
+    "@react-pdf/renderer": "^3.4.2",
+    "@syncfusion/ej2": "^25.1.38",
+    "@syncfusion/ej2-react-charts": "^25.1.38",
+    "chart.js": "^4.4.2",
+    "chartjs": "^0.3.24",
+    "next": "^14.1.4",
+    "pouchdb": "^8.0.1",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^5.1.0",
+    "react-tooltip": "^5.26.3",
+    "recharts": "^2.12.3",
+    "uuid": "^9.0.1",
+    "yarn": "^1.22.22"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}

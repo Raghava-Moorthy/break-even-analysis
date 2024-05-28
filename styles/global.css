@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+@font-face {
+  font-family: "SF-Pro-Display";
+  src: url("../public/font/SF-Pro-Display-Regular.otf");
+}
+@font-face {
+  font-family: "Source-Sans-Pro";
+  src: url("../public/font/SourceSans3-Bold.ttf");
+}
+@font-face {
+  font-family: "Source-Sans-Pro-Medium";
+  src: url("../public/font/SourceSans3-Medium.ttf");
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../public/font/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("../public/font/Roboto-Bold.ttf");
+}
+@font-face {
+  font-family: "Source-Sans-Pro-Semi";
+  src: url("../public/font/SourceSans3-SemiBold.ttf");
+}
+@font-face {
+  font-family: "Space-Grotesk";
+  src: url("../public/font/SpaceGrotesk-Bold.ttf");
+}
+@font-face {
+  font-family: "interSemiBold";
+  src: url("../public/font/Inter-SemiBold.ttf");
+}
